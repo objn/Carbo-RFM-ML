@@ -29,7 +29,12 @@ View the Dashboard & KPIs
   ```bash
    python chart.py
   ```
+![Dashboard](https://github.com/user-attachments/assets/e9502f4f-af14-40dd-9128-0ebfbcd4aef1)
+![Dashboard2](https://github.com/user-attachments/assets/5a7b261a-a36a-452d-8201-110eac6fe343)
+
 Run the Machine Learning Dashboard
   ```bash
    python ML.py
   ```
+![ML](https://github.com/user-attachments/assets/3812ff80-93fd-4058-8f07-483cccfbee85)
+![result_predict](https://github.com/user-attachments/assets/e9c47d10-d2d7-4337-99ab-7f6a9c01e69f)
